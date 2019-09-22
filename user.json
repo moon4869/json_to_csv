@@ -1,0 +1,16 @@
+[
+    {
+        "title": "测试1",
+        "account": "test1",
+        "password": "123456",
+        "type": "工具",
+        "note": "这是备注"
+    },
+    {
+        "title": "测试2",
+        "account": "test2",
+        "password": "123456789",
+        "type": "学习",
+        "note": ""
+    }
+]
